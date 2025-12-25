@@ -1,0 +1,9 @@
+{
+  "name": "Maya AI: Guardian of the Old Knowledge",
+  "description": "A sophisticated personal assistant blending ancient agricultural wisdom with modern market intelligence through live voice, video, and real-time data grounding.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
